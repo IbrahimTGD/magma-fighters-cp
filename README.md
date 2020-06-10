@@ -1,7 +1,7 @@
 # ICE
-# Papa Games
-[![Netlify Status](https://api.netlify.com/api/v1/badges/597ef412-c0ab-4985-a8e5-223009555ee1/deploy-status)](https://app.netlify.com/sites/magma-fighters/deploys)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/597ef412-c0ab-4985-a8e5-223009555ee1/deploy-status)](https://app.netlify.com/sites/magma-fighters/deploys)
+# template info (all other items added by me)
 ICE is a handcrafted modern theme for literally anything. ICE is licensed under the [Creative Commons Attributions](https://creativecommons.org/licenses/by/4.0/legalcode). That means you can use it in both Commercial and Non-Commercial projects for free, **but you must give me credit**.
 
 Want an attribution free version? [Help me buy a](https://www.paypal.me/AmusingThrone/3) coffee, and then [send me an email](mailto:amusingthrone@gmail.com) with the domain you plan to use the theme on. I'll also add you to the hall of fame down below.
